@@ -8,6 +8,9 @@
    - Secret: [Create PAT(Personal Access Token)](https://github.com/settings/tokens/new?scopes=admin:org&description=copilot-usage-report) (consider expiration date)
 3. [Run workflow](../../actions/workflows/copilot-usage.yml)
 
+> [!TIP]
+> Change [Artifact and log retention](../../settings/actions#retention-header) setting to keep your reports longer than 90 days.
+
 https://github.com/user-attachments/assets/dbc8e799-7c9a-4a21-8eea-34fdcabbf2aa
 
 ## Viewing Report
